@@ -1,6 +1,6 @@
 # 3D Printed Extrusion Rails
 
-![3D Printed Extrusion Rails](2020%20Extrusion%20Rails%20Main%20Image.png)
+![3D Printed Extrusion Rails](2020%20Extrusion%20Rails%20Main%20Image.PNG)
 
 ## Overview
 
