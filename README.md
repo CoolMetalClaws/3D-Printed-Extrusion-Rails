@@ -49,7 +49,7 @@ Are used to have parts, attachments and accessories slide, and are useful when m
 
 ### 5. Extrusion Rail Connectors
 
-![alt text](<Screenshot 2026-06-23 195803.png>)
+https://cdn.hackclub.com/019f0d7f-c3ea-7843-b98d-a4eea0c6a2a6/screenshot_2026-06-23_195803.png
 
 Are used to connect multiple rails together for uses that require larger lengths. Can be superglued in place for a permanant fix.
 
@@ -82,19 +82,19 @@ Clean up the 3D printed parts (Remove brims and stringing if visible)
 
 The end cap slides into either open end of any 2020 V-slot Extrusion, as per required. It can be superglued in place for a permanent fix .See image below for example:
 
-![alt text](<Screenshot 2026-06-28 174809-1.png>)
+https://cdn.hackclub.com/019f0d80-9b81-7365-a7e6-7c0196aa37f8/screenshot_2026-06-28_174809.png
 
 ### 3. Rail Connectors: 
 
 The connectors are inserted into the central holes of the both rails that require connection. They can be superglued in place for a permanent fix. See image below for example:
 
-![alt text](<Screenshot 2026-06-23 195803-1.png>)
+https://cdn.hackclub.com/019f0d81-6103-7157-8c66-dabbb1e3b9c6/screenshot_2026-06-23_195803.png
 
 ### 4. Feet:
 
 The feet are slid onto the base of the rail for stablility and for a slightly increased height. See image below for example:
 
-![alt text](<Screenshot 2026-06-23 195907-1.png>)
+https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06-23_195907.png
 
 ## License 
 
