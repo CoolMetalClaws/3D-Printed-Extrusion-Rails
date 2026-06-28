@@ -100,6 +100,10 @@ https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06
 
 This design is under the Creative Commons Attribution-NonCommercial (CC BY-NC) licence. This design or any of its derivatives can be used only for personal use and cannot be sold. Users are free to create remixes with proper attribution to the creator, but cannot make money of them.
 
+## Link to original design
+
+https://cad.onshape.com/documents/22113442d805ee37a19f0e13/w/2d82247462f69fdc68fc0b5b/e/f6fcab689193597269c9dd49?renderMode=0&uiState=6a40e88a4d64253344daf6eb
+
 
 
 
