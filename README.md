@@ -1,6 +1,6 @@
 # ModuRail: A Modular 3D Printed 2020 V-Slot Extrusion Rail System
 
-https://cdn.hackclub.com/019f0d77-58dc-75f7-90a0-1484487c8981/screenshot_2026-06-24_195642.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d77-58dc-75f7-90a0-1484487c8981/screenshot_2026-06-24_195642.png)
 
 ## Overview
 
@@ -24,32 +24,32 @@ DISCLAIMER: Do not use 3D printed rails for any serious/industrial applictions o
 
 ### 1. 2020 V-Slot Extrusion Rail 100mm Length (Compatible for most printers)
 
-https://cdn.hackclub.com/019f0d78-6c32-70ce-9412-bcbbc817dc9d/screenshot_2026-06-23_200012.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d78-6c32-70ce-9412-bcbbc817dc9d/screenshot_2026-06-23_200012.png)
 
 Multiple rails can be connected in series using connectors if larger lengths required. 3D printed rails are compatible with commercially available ones. 
 
 ### 2. Extrusion Rail Feet 
 
-https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06-23_195907.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06-23_195907.png)
 
 Are slid on beneath the rails for added height and a stable surface. Can be superglued in place for a permanant fix.
 
 ### 3. Extrusion Rail End Cap
 
-https://cdn.hackclub.com/019f0d7d-d34b-7b9a-9e4f-246f71c6b12f/screenshot_2026-06-24_191849.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d7d-d34b-7b9a-9e4f-246f71c6b12f/screenshot_2026-06-24_191849.png)
 
 Are used to stop rails from sliding off and to provide a better and cleaner end finish. Can be superglued in place for a permanant fix.
 
 
 ### 4. Extrusion Rail Slider (STEP file available)
 
-https://cdn.hackclub.com/019f0d7e-83da-70b9-b091-9a28f5d1c745/screenshot_2026-06-23_200952.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d7e-83da-70b9-b091-9a28f5d1c745/screenshot_2026-06-23_200952.png)
 
 Are used to have parts, attachments and accessories slide, and are useful when making projects with functional moving paths that require a guided rail path. A STEP file is available for uses that require customised sliders.
 
 ### 5. Extrusion Rail Connectors
 
-https://cdn.hackclub.com/019f0d7f-c3ea-7843-b98d-a4eea0c6a2a6/screenshot_2026-06-23_195803.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d7f-c3ea-7843-b98d-a4eea0c6a2a6/screenshot_2026-06-23_195803.png)
 
 Are used to connect multiple rails together for uses that require larger lengths. Can be superglued in place for a permanant fix.
 
@@ -82,19 +82,19 @@ Clean up the 3D printed parts (Remove brims and stringing if visible)
 
 The end cap slides into either open end of any 2020 V-slot Extrusion, as per required. It can be superglued in place for a permanent fix .See image below for example:
 
-https://cdn.hackclub.com/019f0d80-9b81-7365-a7e6-7c0196aa37f8/screenshot_2026-06-28_174809.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d80-9b81-7365-a7e6-7c0196aa37f8/screenshot_2026-06-28_174809.png)
 
 ### 3. Rail Connectors: 
 
 The connectors are inserted into the central holes of the both rails that require connection. They can be superglued in place for a permanent fix. See image below for example:
 
-https://cdn.hackclub.com/019f0d81-6103-7157-8c66-dabbb1e3b9c6/screenshot_2026-06-23_195803.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d81-6103-7157-8c66-dabbb1e3b9c6/screenshot_2026-06-23_195803.png)
 
 ### 4. Feet:
 
 The feet are slid onto the base of the rail for stablility and for a slightly increased height. See image below for example:
 
-https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06-23_195907.png
+![Extrusion Rails](https://cdn.hackclub.com/019f0d79-18be-7f73-a5cb-10322a865ff4/screenshot_2026-06-23_195907.png)
 
 ## License 
 
